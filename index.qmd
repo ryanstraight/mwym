@@ -2,8 +2,9 @@
 title: |
     <img src="banner.png" alt="Slide deck" width="70%"/>
 subtitle: |
-    [Mingle With Your Major]{style='font-size: 120%; font-weight: bolder;'}<br />
-    An Introduction to the MA\{VR\}X Lab 
+    [An Introduction to the MA\{VR\}X Lab]{style='font-size: 120%; font-weight: bolder;'}<br />
+     Mingle With Your Major<br />
+     August 17, 2022
      
 author: "[<br />Dr. Ryan Straight<br />Associate Professor of Practice<br />Applied Computing & Cyber Operations]{style='font-size: 70%;'}"
 
@@ -97,6 +98,7 @@ University of Arizona
 + *Broad* concept of XR
 + Holographic video, NFTs, AR training, more
 + Cybersecurity education with XR
++ Exploring Web3
 
 :::
 
@@ -116,7 +118,9 @@ knitr::include_graphics("assets/MAVRXmonday.gif")
 
 :::{.notes}
 
+In our first year, we produced 5 student-lead projects, 3 conference talks, 4 internal college projects, 2 reports, and 1 manual.
 
+We also supported six community events and nearly a dozen tours.
 
 :::
 
