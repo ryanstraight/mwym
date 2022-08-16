@@ -176,24 +176,164 @@ But most importantly: The Internet. And we'll take a look at that now.
 
 # What resources does the lab have? {background="#9EABAE" background-image="banner.png" background-size="15%" background-position="right 5% top 5%"}
 
-## {background-iframe="https://mavrxlab.org/resources/index.html#headsets-and-related-gear"}
+## Hardware {.scrollable}
+
+### Headsets and Related Gear
+
++ [HTC Vive kit](https://www.vive.com/us/) (x3)
++ [MERGE Cube & Headset kit](https://mergeedu.com/cube)
++ [Microsoft HoloLens 1](https://www.microsoft.com/en-us/hololens) (x3)
++ [Microsoft HoloLens](https://www.microsoft.com/en-us/hololens) 2 (x1)
++ [Oculus Rift](https://www.oculus.com/rift/) (x3)
++ [Oculus Quest](https://www.oculus.com/quest/features/) (x3)
++ [Oculus Quest 2](https://www.oculus.com/quest-2/) (x3)
++ [Oculus Go](https://www.cnet.com/reviews/oculus-go-review/) (x1)
++ [Valve Index](https://store.steampowered.com/valveindex) (x1)
+
+#### Other Equipment
+
++ Apple iPads (x2)
++ Apple iPad Pro (x1)
++ Canon EOS Rebel T6 DSLR kit
++ [Cleanbox CX2](https://cleanboxtech.com/cx-series)
++ Insta360 ONE X camera kit
++ [Matterport Pro2 3D Camera](https://matterport.com/cameras/pro2-3D-camera) (x1)
++ Zoom H6 audio recorder/interface
 
 
-:::{.notes}
+### Streaming
 
-A look at the hardware in the lab.
+The MA{VR}X Lab also provides microphones and an audio interface for streaming interviews, gameplay, and so on.
 
-:::
++ Blue Yeti microphone
++ Green screen (x2)
++ LED light panels (x2)
++ NVIDIA Broadcast
++ OBS Studio
++ Rode lavaliere microphone (x2)
++ Rode Wireless GO II kit
+    + Includes two wireless transmitters and one wireless receiver.
++ Streamlabs OBS
++ Zoom
 
+### Work Stations
 
-## {background-iframe="https://mavrxlab.org/resources/index.html#games-and-experiences"}
+#### Workstation 1
 
+This workstation has the following equipment and must be reserved together:
 
-:::{.notes}
++ Alienware laptop
++ 65" Samsung SmartTV
 
-Software for the lab.
+#### Workstation 2
 
-:::
++ Mantis CUK gaming PC
++ Dual monitors
++ External webcam
++ 75" Samsung SmartTV
+
+#### Workstation 3
+
++ iMac
+
+#### Workstation 4
+
+(This workstation is on a cart and can also be used for streaming.)
+
++ MSI GT-75 Titan laptop
++ Webcam
++ External speakers
++ Broadcast microphone
+
+## Software {.scrollable}
+
+### Games and Experiences
+
++ [A Chair in a Room: Greenwater - VR Horror - Original Indie Virtual Reality Scares](http://www.achairinaroom.com/)
++ [Affected - The Virtual Reality Horror Experience](https://www.fallenplanetstudios.com/affected-the-manor/)
++ [Cosmodread – A VR survival horror roguelike](http://www.cosmodread.com/)
++ [Google Earth VR](https://arvr.google.com/earth/)
++ [Hinge VR](https://hinge.arcadia-vr.com/)
++ [Layers of Fear VR on Steam](https://store.steampowered.com/app/1183030/Layers_of_Fear_VR/)
++ [Microsoft Flight Simulator](https://www.flightsimulator.com/)
++ [Paranormal Activity: The Lost Soul - Virtual Reality Game](https://www.pavrgame.com/)
++ [Phasmophobia](https://kineticgames.co.uk/)
++ [Space Engine – the universe simulator](https://spaceengine.org/)
++ [Supernatural](https://www.getsupernatural.com/)
++ [TheBlu](https://wevr.com/theblu)
++ [Exorcist: Legion](https://www.exorcistlegion.com/)
++ [The Forest | Endnight Games](https://endnightgames.com/games/the-forest)
++ [The Lab on Steam](https://store.steampowered.com/app/450390/The_Lab/)
++ [Transference | Ubisoft (UK)](https://www.ubisoft.com/en-gb/game/transference)
++ [Wraith: The Oblivion - Afterlife](https://www.fasttravelgames.com/games/wraithafterlife)
+
+#### Non-VR Games
+
++ Amnesia: A Machine for Pigs
++ Amnesia: The Dark Descent
++ Claire
++ Dark Fall: Lost Souls
++ Dark Fall 1: The Journal
++ Dark Fall 2: Lights Out
++ Deadly Premonition
++ DreadOut
++ Dreamfall: The Longest Journey
++ Dreamfall Chapters
++ Exo One: Prologue
++ Explore Fushimi Inari
++ Gone Home
++ Grimm
++ Kinoko
++ Lucius
++ Never Alone (Kisima Ingitchuna)
++ Neverending Nightmares
++ Omikron - The Nomad Soul
++ Penumbra: Black Plague
++ Penumbra: Overture
++ Penumbra: Requiem
++ Serena
++ Skyrim (Special Edition)
++ The 111th Soul
++ The Imagined Leviathan
++ The Last Show of Mr. Chardish: Act I
++ The Longest Journey
++ The Stanley Parable
++ The Ultimate Doom
++ Undertale
++ WORLD OF HORROR
+
+### Software
+
+#### Data Analysis, Coding, and Visualization
+
++ Anaconda suite
++ RStudio
++ RStudio Connect
+    + *Only the lab director can push content to this platform. Consultation is required before its use.*
+
+#### Development
+
++ Adobe Creative Cloud
+    + Aero
+    + After Effects
+    + Animate
+    + Audition
+    + Dimension
+    + Fresco
+    + Illustrator
+    + InDesign
+    + Photoshop
+    + Premiere Pro
+    + Premiere Rush
+    + Substance 3D
+    + XD
++ Blender
++ EyeJack
++ MyWebAR
++ NVIDIA Omniverse
++ Unity
++ Unreal Engine
+
 
 # How can I get involved? {background="#9EABAE" background-image="banner.png" background-size="15%" background-position="right 5% top 5%"}
 
@@ -229,7 +369,7 @@ Twitter: **\@mavrxlab**
 
 :::{.notes}
 
-Software for the lab.
+Look for some paid opportunities, as well, for those living in the area.
 
 :::
 
