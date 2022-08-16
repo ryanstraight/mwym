@@ -1,2 +1,3 @@
-# mwym-FA22
-Fall 2022 "Mingle With Your Major" deck about lab.
+# Mingle With Your Major slide deck
+
+Just a few slides for the Mingle With Your Major event on August 17th. Primiarly to introduce the lab.

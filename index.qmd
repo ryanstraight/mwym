@@ -1,0 +1,235 @@
+---
+title: |
+    <img src="banner.png" alt="Slide deck" width="70%"/>
+subtitle: |
+    [Mingle With Your Major]{style='font-size: 120%; font-weight: bolder;'}<br />
+    An Introduction to the MA\{VR\}X Lab 
+     
+author: "[<br />Dr. Ryan Straight<br />Associate Professor of Practice<br />Applied Computing & Cyber Operations]{style='font-size: 70%;'}"
+
+format:
+  revealjs:
+    theme: simple
+    navigation-mode: vertical
+    controls-tutorial: true
+    show-slide-number: print
+    chalkboard:
+        theme: whiteboard
+    multiplex: true
+    reference-location: document
+
+editor: source
+
+toc: false
+slide-number: false
+number-sections: false
+logo: "banner.png"
+footer: "Dr. Ryan Straight -- University of Arizona -- @ryanstraight"
+---
+
+
+# Agenda {background="#9EABAE" background-image="banner.png" background-size="15%" background-position="right 5% top 5%"}
+
+## Your (Likely) Questions
+
+:::: columns
+
+::: {.column width="70%"}
+
+1. Who are you?
+1. What is the lab? What do you study?
+1. Where is it? Do I have to go there?
+1. What resources are available?
+1. How can I get involved?
+
+:::
+
+
+::: {.column width="30%"}
+
+![](https://media2.giphy.com/media/jCL5JbYPYQz96/giphy.gif){.right}
+
+:::
+
+::::
+
+:::{.notes}
+
++ 
+:::
+
+
+
+# Who is this guy? {background="#9EABAE" background-image="banner.png" background-size="15%" background-position="right 5% top 5%"}
+
+## Dr. Ryan Straight {.smaller}
+
+
+Associate Professor of Practice  
+Applied Computing & Cyber Operations  
+Lab Director  
+College of Applied Science and Technology  
+University of Arizona
+
+![&copy;Herald/Review](assets/ryan.jpg){.center}
+
+
+:::{.notes}
+
++ Info about me
++ What classes do I teach
+
+:::
+
+
+
+## MA\{VR\}X Lab {.smaller}
+
+[**M**ixed **A**ugmented **V**i**R**tual e**X**tended Reality Lab]{style="font-size: 100%;"}
+
+
+:::: columns
+
+::: {.column width="60%"}
+
++ College's first lab
++ One year old
++ *Broad* concept of XR
++ Holographic video, NFTs, AR training, more
++ Cybersecurity education with XR
+
+:::
+
+
+::: {.column width="40%"}
+
+```{r}
+#| echo: false
+#| out.width: "100%"
+
+knitr::include_graphics("assets/MAVRXmonday.gif")
+```
+
+:::
+
+::::
+
+:::{.notes}
+
+
+
+:::
+
+
+
+
+# Where is this lab? {background="#9EABAE" background-image="banner.png" background-size="15%" background-position="right 5% top 5%"}
+
+## Lab Locations
+
+:::: columns
+::: {.column width="50%"}
+
+```{r}
+#| label: SV
+#| fig-cap: "Sierra Vista location."
+
+library(leaflet)
+
+leaflet(width=500) %>% 
+    addTiles() %>%  
+    setView(lng=-110.244969, lat=31.567069, zoom = 17) %>% 
+    addMarkers(lng=-110.2446968462244, lat=31.56766375169478, popup="<a href='https://mavrxlab.org'><b>MA{VR}X Lab</b></a>")
+
+```
+
+:::
+
+::: {.column width="50%"}
+
+```{r}
+#| label: Yuma
+#| fig-cap: "Yuma location."
+
+library(leaflet)
+
+leaflet(width=500) %>% 
+    addTiles() %>%  
+    setView(lng=-114.49856, lat=32.68466, zoom = 14) %>% 
+    addMarkers(lng=-114.49856, lat=32.68466, popup="<a href='https://mavrxlab.org'><b>MA{VR}X Lab</b></a>")
+
+```
+:::
+::::
+
+And: **the Internet**.
+
+:::{.notes}
+
+SV and Yuma
+
+But most importantly: The Internet. And we'll take a look at that now.
+
+
+:::
+
+
+# What resources does the lab have? {background="#9EABAE" background-image="banner.png" background-size="15%" background-position="right 5% top 5%"}
+
+## {background-iframe="https://mavrxlab.org/resources/index.html#headsets-and-related-gear"}
+
+
+:::{.notes}
+
+A look at the hardware in the lab.
+
+:::
+
+
+## {background-iframe="https://mavrxlab.org/resources/index.html#games-and-experiences"}
+
+
+:::{.notes}
+
+Software for the lab.
+
+:::
+
+# How can I get involved? {background="#9EABAE" background-image="banner.png" background-size="15%" background-position="right 5% top 5%"}
+
+## Working with the lab
+
+
+:::: columns
+
+::: {.column width="60%"}
+
++ Self-directed research
++ Lab projects
++ Class assignments
++ Publishing
++ Conference talks
++ Community events
+
+:::
+
+
+::: {.column width="40%"}
+
+![](https://media4.giphy.com/media/0Av9l0VIc01y1isrDw/giphy.gif)
+
+:::
+
+::::
+
+Email: **mavrx-lab\@arizona.edu** & **ryanstraight\@arizona.edu**
+Web: [mavrxlab.org](https://mavrxlab.org)  
+Twitter: **\@mavrxlab**
+
+
+:::{.notes}
+
+Software for the lab.
+
+:::
+
