@@ -65,7 +65,7 @@ footer: "Dr. Ryan Straight -- University of Arizona -- @ryanstraight"
 ## Dr. Ryan Straight {.smaller}
 
 
-Honors & Assistant Professor
+Honors & Assistant Professor  
 Lab Director  
 College of Applied Science and Technology  
 University of Arizona
